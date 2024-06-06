@@ -1,19 +1,19 @@
 {
   "installed": false,
   "emojis": {
-    "back": "back.png",
-    "prev": "prev.png",
-    "next": "next.png",
-    "first": "first.png",
-    "last": "last.png",
-    "search": "search.png",
-    "command": "command.png",
-    "install": "install.png",
-    "success": "success.png",
-    "warning": "warning.png",
-    "error": "error.png",
-    "rooms": "rooms.png",
-    "emoji": "emoji.png",
-    "leaderboard": "leaderboard.png"
+    "back": ["back.png",0],
+    "prev": ["prev.png",0],
+    "next": ["next.png",0],
+    "first": ["first.png",0],
+    "last": ["last.png",0],
+    "search": ["search.png",0],
+    "command": ["command.png",0],
+    "install": ["install.png",0],
+    "success": ["success.png",0],
+    "warning": ["warning.png",0],
+    "error": ["error.png",0],
+    "rooms": ["rooms.png",0],
+    "emoji": ["emoji.png",0],
+    "leaderboard": ["leaderboard.png",0]
   }
 }
