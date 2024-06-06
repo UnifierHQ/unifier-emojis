@@ -1,0 +1,19 @@
+{
+  "installed": false,
+  "emojis": {
+    "back": "left.png",
+    "prev": "prev.png",
+    "next": "next.png",
+    "first": "first.png",
+    "last": "last.png",
+    "search": "search.png",
+    "command": "command.png",
+    "install": "install.png",
+    "success": "success.png",
+    "warning": "warning.png",
+    "error": "error.png",
+    "rooms": "rooms.png",
+    "emoji": "emoji.png",
+    "leaderboard": "leaderboard.png"
+  }
+}
