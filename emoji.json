@@ -1,7 +1,7 @@
 {
   "installed": false,
   "emojis": {
-    "back": ["back.png",0],
+    "back": ["back.png",1],
     "prev": ["prev.png",0],
     "next": ["next.png",0],
     "first": ["first.png",0],
