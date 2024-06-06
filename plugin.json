@@ -1,16 +1,13 @@
 {
-  "id": "template",
-  "name": "Plugin Template",
-  "description": "This is a template for Unifier plugins.",
+  "id": "unimojis",
+  "name": "Unifier Emoji Pack",
+  "description": "A custom emoji pack for Unifier.",
   "version": "v1.0.0",
   "release": 0,
-  "minimum": 36,
-  "services": [],
+  "minimum": 51,
+  "services": ["emojis"],
   "requirements": [],
   "shutdown": false,
-  "modules": [
-    "template.py"
-  ],
-  "utils": [
-  ]
+  "modules": [],
+  "utils": []
 }
