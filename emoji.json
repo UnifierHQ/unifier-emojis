@@ -14,6 +14,7 @@
     "error": ["error.png",0],
     "rooms": ["rooms.png",0],
     "emoji": ["emoji.png",0],
-    "leaderboard": ["leaderboard.png",0]
+    "leaderboard": ["leaderboard.png",0],
+    "loading": ["loading.gif", 0]
   }
 }
